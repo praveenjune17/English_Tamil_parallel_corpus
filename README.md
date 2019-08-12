@@ -1,2 +1,2 @@
 # English_Tamil_parallel_corpus
-Download links for all the english_tamil parallel corpus
+Download links are available in Available_download_links.txt.Please check the link before adding new
